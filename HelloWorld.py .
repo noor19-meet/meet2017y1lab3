@@ -1,0 +1,38 @@
+('Hello World!')
+'Hello World!'
+"Hello World!"
+'Hello World!'
+#"Hello World"
+"Γειά σου Κόσμε"
+'Γειά σου Κόσμε'
+"Olá Mundo"
+'Olá Mundo'
+"Ahoj světe"
+'Ahoj světe'
+"안녕 세상"
+'안녕 세상'
+"你好，世界"
+'你好，世界'
+"नमस्ते दुनिया"
+'नमस्ते दुनिया'
+"Salamu, Dunia"
+'Salamu, Dunia'
+"مرحبا بالعالم"
+'مرحبا بالعالم'
+"שלום עולם"
+'שלום עולם'
+"Hola Mundo"
+'Hola Mundo'
+"Hello Laith"
+'Hello Laith'
+print("Hello world is how you say Hello world in English")
+("Γειά σου Κόσμε" is how you say Hello world in Greek")
+("Olá Mundo" is how you say Hello world in Portuguese")
+("Ahoj světe" is how you say Hello world in Czech")
+("안녕 세상" is how you say Hello world in Korean")
+("你好，世界" is how you say Hello world in Chinese")
+("नमस्ते दुनिया" is how you say Hello world in Hindi")
+("Salamu, Dunia" is how you say Hello world in Swahili")
+("مرحبا بالعالم" is how you say Hello world in Arabic")
+("שלום עולם" is how you say Hello world in Hebrew")
+("Hola Mundo" is how you say Hello world in Spanish")
