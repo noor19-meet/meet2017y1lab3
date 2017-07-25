@@ -1,0 +1,7 @@
+print("How old are you?")
+age = input()
+print('I am ' + age + ' years old')
+age = input()
+print ('How old are you?')
+age = input()
+print ("I am " + age + " years old")
